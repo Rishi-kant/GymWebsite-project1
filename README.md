@@ -1,6 +1,6 @@
 # Gym Project
 
-## Deployed link : [Deployed link](https://gym-project-wheat.vercel.app/)
+## Deployed link : [Deployed link](https://gym-website-project1.vercel.app/)
 
 ### Home page :
 ![Header](./src/assests/home.png)
